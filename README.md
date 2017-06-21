@@ -36,7 +36,7 @@ ______               _        _               _      _
 * Download [Drozer](https://github.com/mwrlabs/drozer/releases/download/2.3.4/drozer-installer-2.3.4.zip) Windows version 
 * Rename the downloaded folder as well as drozer bat file inside the folder to ***drozer*** and place it in C:\
 
-Download pentdroid
+* Download pentdroid
 [![Download PentDroid](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/pentdroid/files/latest/download)
 
 * Extract it in in C:\
