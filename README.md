@@ -1,5 +1,5 @@
 # Pentdroid
-Pentdroid is a handy utility tool which helps in automating various apk operations required during android app security assessments
+Pentdroid is a handy utility tool which helps in automating tedious apk operations required during android app security assessments
 ```
 ______               _        _               _      _
 | ___ \             | |      | |             (_)    | |
