@@ -40,7 +40,7 @@ ______               _        _               _      _
 * Visit C:\pentdroid
 * Execute pd.py
 
-### Python modules
+### Python modules required
 ```
 import os
 import sys
