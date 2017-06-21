@@ -34,8 +34,10 @@ ______               _        _               _      _
 ### Installation Guide 
 * Download python 2.7 ,make sure python path is in system variable
 * Download [Drozer](https://github.com/mwrlabs/drozer/releases/download/2.3.4/drozer-installer-2.3.4.zip) Windows version 
-* Rename the downloaded folder as well as drozer bat file to drozer and place it in C:\
-* ![Download PentDroid](https://a.fsdn.com/con/app/sf-download-button)
+* Rename the downloaded folder as well as drozer bat file inside the folder to ***drozer*** and place it in C:\
+
+![Download PentDroid](https://a.fsdn.com/con/app/sf-download-button)
+
 * Extract it in in C:\
 * Visit C:\pentdroid
 * Execute pd.py
