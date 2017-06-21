@@ -32,7 +32,9 @@ ______               _        _               _      _
 [+]choice> 
 ```
 ### Usage Guide 
-* To perform operation on apk place it in ```C:\pentdroid\apps```
+* To perform operation on an apk place it in ```C:\pentdroid\apps``` first
+* Then select the options from the console like ```[+]Choice> 6 ``` it will start reversing the app .
+
 ### Requirements
 * Java JDK
 * Python 2.7
