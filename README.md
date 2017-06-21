@@ -58,4 +58,4 @@ import socket
 Apktool,ABE,dex2jar,drozer,frida
 
 ### Support/Help
-For any issues or support contact me at [vishwaraj101](https://twitter.com/vishwaraj101)
+For any issues or support contact me at [@vishwaraj101](https://twitter.com/vishwaraj101)
