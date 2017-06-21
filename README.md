@@ -31,8 +31,12 @@ ______               _        _               _      _
 
 [+]choice> 
 ```
+### Requirements
+* Java JDK
+* Python 2.7
+
 ### Installation Guide 
-* Download python 2.7 ,make sure python path is in system envionment variable
+* Download python 2.7 ensure that python and java paths are in system environment variable
 * Download [Drozer](https://github.com/mwrlabs/drozer/releases/download/2.3.4/drozer-installer-2.3.4.zip) Windows version 
 * Rename the downloaded folder as well as drozer bat file inside the folder to ***drozer*** and place it in C:\
 
