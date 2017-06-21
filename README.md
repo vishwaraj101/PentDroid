@@ -31,3 +31,22 @@ ______               _        _               _      _
 
 [+]choice> 
 ```
+### Installation Guide 
+* Download python 2.7 ,make sure python path is in system variable
+* Download [Drozer](https://github.com/mwrlabs/drozer/releases/download/2.3.4/drozer-installer-2.3.4.zip) Windows version 
+* Rename the downloaded folder to drozer and place it in C:\
+* Download Pentdroid from [SourceForge](https://sourceforge.net/projects/pentdroid/)
+* Extract it in in C:\
+* Visit C:\pentdroid
+* Execute pd.py
+
+### Python modules
+```
+import os
+import sys
+import shutil
+import socket
+
+```
+### Pentdroid uses
+Apktool,ABE,dex2jar,drozer,frida
