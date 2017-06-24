@@ -31,15 +31,23 @@ ______               _        _               _      _
 
 [+]choice> 
 ```
-### Usage Guide 
-* To perform operation on an apk place it in ```C:\pentdroid\apps``` first
-* Then select the options from the console like ```[+]Choice> 6 ``` it will start reversing the app .
-
 
 ### Requirements
 * Java JDK
 * Python 2.7
 * Genymotion Emulator with android version 4.4 or 5.0
+
+### Usage Guide 
+* To perform operation on an apk place it in ```C:\pentdroid\apps``` first
+* Then select the options from the console like
+
+```
+[+]Choice> 6
+Enter App Name> sieve 
+``` 
+it will start reversing the app .
+
+
 
 ### Installation Guide 
 * Download python 2.7 ensure that python and java paths are in system environment variable
